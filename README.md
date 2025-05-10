@@ -1,4 +1,4 @@
-# Delima V3 Source
+# *STAR GLITCHER ~ DELIMA [V3]*
 Code, Assets, UI, etc. (Only things that were made by me)
 
 
